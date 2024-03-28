@@ -3,7 +3,7 @@ package CodeTree.Simul.Bomb;
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class 일차원젠가 {
     static int N;
     static int M;
     static int[] arr;
