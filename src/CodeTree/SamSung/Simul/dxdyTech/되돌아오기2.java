@@ -1,4 +1,4 @@
-package CodeTree.SamSung.Simul;
+package CodeTree.SamSung.Simul.dxdyTech;
 
 import java.io.*;
 import java.util.*;
