@@ -3,7 +3,7 @@ package CodeTree.SamSung.Exam;
 import java.io.*;
 import java.util.*;
 
-public class 메이즈러너 {
+public class 메이즈러너개정판 {
     static int N;
     static int M;
     static int K;
